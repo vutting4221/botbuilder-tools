@@ -31,7 +31,7 @@
     "latest-version": "^4.0.0",
     "intercept-stdout": "^0.1.2",
     "mime-types": "^2.1.18",
-    "minimist": "^1.2.0",
+    "minimist": "^1.2.6",
     "please-upgrade-node": "^3.0.1",
     "request": "^2.88.0",
     "request-promise-native": "^1.0.5",
