@@ -38,7 +38,7 @@
     "hoek": "^5.0.3",
     "https-proxy-agent": "^2.2.1",
     "intercept-stdout": "^0.1.2",
-    "latest-version": "^4.0.0",
+    "latest-version": "^6.0.0",
     "md5": "^2.2.1",
     "minimist": "^1.2.0",
     "node-fetch": "^2.1.2",
@@ -47,7 +47,7 @@
     "readline-sync": "^1.4.9",
     "request": "^2.88.0",
     "request-promise-native": "^1.0.5",
-    "semver": "^5.5.1",
+    "semver": "^7.5.2",
     "window-size": "^1.1.0"
   },
   "devDependencies": {
